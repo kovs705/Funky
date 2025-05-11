@@ -3,6 +3,7 @@
 //  Funky
 //
 //  Created by Eugene Kovs on 11.05.2025.
+//  https://github.com/kovs705
 //
 
 import UIKit
